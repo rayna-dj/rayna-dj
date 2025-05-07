@@ -19,9 +19,9 @@ Web Dev: HTML, CSS, JavaScript
 Tools: Git, GitHub, Google Colab
 
 Databases: SQL, MySQL
- 
+
 ## 👩‍💻 Projects:
-Noteworthy projects I’ve worked on (that are not school projects I cannot share or ones I signed an NDA on 😅):
+Noteworthy projects I’ve worked on (excluding the ones under NDA and school projects due to academic honesty 😅). 
 
 🏫 Home Access Center (HAC) Grade Calculator - Cumulative Grade Calculator 
 Calculates predictions on what grade is needed to obtain a letter grade for Bridgeland High School / CFISD students
