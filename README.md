@@ -23,14 +23,11 @@ Databases: SQL, MySQL
 ## 👩‍💻 Projects:
 Noteworthy projects I’ve worked on (excluding the ones under NDA and school projects due to academic honesty 😅). 
 
-🏫 Home Access Center (HAC) Grade Calculator - Cumulative Grade Calculator 
-Calculates predictions on what grade is needed to obtain a letter grade for Bridgeland High School / CFISD students. https://rayna-dj.github.io/HACGradeCalculator/
+🏫 Home Access Center (HAC) Grade Calculator - Calculates predictions on what grade is needed to obtain a letter grade for Bridgeland High School / CFISD students https://rayna-dj.github.io/HACGradeCalculator/
 
-🗺️ Mobilize - Campus Navigation App 
-Assists students with disabilities in navigating college campuses by requesting volunteers and using a crowdsourced accessibility map. https://github.com/mobilize-convergent/mobilize-mvp
+🗺️ Mobilize - Assists students with disabilities in navigating college campuses by requesting volunteers and using a crowdsourced accessibility map. https://github.com/mobilize-convergent/mobilize-mvp
 
-🎮 A+RCADE - Pomodoro timer
-Developed a gamified Pomodoro timer Chrome Extension that rewards productive study sessions. https://github.com/zrogerye/PomodoroTimerExtension
+🎮 A+RCADE - Developed a gamified Pomodoro timer Chrome Extension that rewards productive study sessions. https://github.com/zrogerye/PomodoroTimerExtension
 
 ## 💌 How to Reach Me:
 LinkedIn: www.linkedin.com/in/rayna-dejesus
