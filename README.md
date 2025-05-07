@@ -1,5 +1,6 @@
 # 👋 Hi, I'm Rayna!
 🎓 Sophomore at the University of Texas at Austin studying Computer Science
+
 ✨ Aspiring Software Engineer
 
 ## 🧠 About: 
