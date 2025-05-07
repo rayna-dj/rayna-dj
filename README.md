@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Rayna!
-## 🎓 Sophomore at the University of Texas at Austin studying Computer Science
-## ✨ Aspiring Software Engineer
+🎓 Sophomore at the University of Texas at Austin studying Computer Science
+✨ Aspiring Software Engineer
 
 ## 🧠 About: 
 I’m a computer science major at UT, currently pursuing a certificate in nonprofits & social entrepreneurship. 
