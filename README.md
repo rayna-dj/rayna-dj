@@ -1,5 +1,5 @@
-# 👋 Hi, I'm Rayna!
-🎓 Computer Science major at the University of Texas at Austin 
+# 👑 Hi, I'm Rayna!
+🤘 Computer Science major at the University of Texas at Austin 
 
 ✨ Aspiring Software Engineer
 
@@ -9,7 +9,7 @@ My interests lie in software engineering, UX/UI design, the arts, and entertainm
 I’m dedicated to leveraging tech to create equitable resources that empower underrepresented communities and am eager to explore opportunities 
 where I can apply my creativity to drive meaningful change. 
  
-## 🛠️ Tech Stack:
+## ⚙️ Tech Stack:
 Languages: Python, Java, C
 
 Data Science: Pandas, NumPy, scikit-learn
@@ -28,7 +28,7 @@ Calculates predictions on what grade is needed to obtain a letter grade for Brid
 
 https://rayna-dj.github.io/HACGradeCalculator/
 
-📍 Mobilize - Campus Navigation App 
+🗺️ Mobilize - Campus Navigation App 
 Assists students with disabilities in navigating college campuses by requesting volunteers and using a crowdsourced accessibility map
 
 https://github.com/mobilize-convergent/mobilize-mvp
