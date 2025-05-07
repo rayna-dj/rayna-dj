@@ -1,4 +1,4 @@
-# 🌺 Hi, I'm Rayna!
+# 🌺 Hello, I'm Rayna! 🌺
 🤘 Computer Science major at the University of Texas at Austin 
 
 ✨ Aspiring Software Engineer
@@ -16,7 +16,7 @@ Data Science: Pandas, NumPy, scikit-learn
 
 Web Dev: HTML, CSS, JavaScript
 
-Tools: Git, GitHub, Google Colab
+Tools: Git, GitHub, Gitlab, Google Colab
 
 Databases: SQL, MySQL
 
