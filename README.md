@@ -1,6 +1,6 @@
-### 👋 Hi, I'm Rayna!
-### 🎓 Sophomore at the University of Texas at Austin studying Computer Science
-### ✨ Aspiring Software Engineer
+# 👋 Hi, I'm Rayna!
+## 🎓 Sophomore at the University of Texas at Austin studying Computer Science
+## ✨ Aspiring Software Engineer
 
 ## 🧠 About: 
 I’m a computer science major at UT, currently pursuing a certificate in nonprofits & social entrepreneurship. 
@@ -8,14 +8,14 @@ My interests lie in software engineering, UX/UI design, the arts, and entertainm
 I’m dedicated to leveraging tech to create equitable resources that empower underrepresented communities and am eager to explore opportunities 
 where I can apply my creativity to drive meaningful change. 
  
-# 🛠️ Tech Stack:
+## 🛠️ Tech Stack:
 Languages: Python, Java, C
 Data Science: Pandas, NumPy, scikit-learn
 Web Dev: HTML, CSS, JavaScript
 Tools: Git, GitHub, Google Colab
 Databases: SQL, MySQL
  
-# 👩‍💻 Projects:
+## 👩‍💻 Projects:
 A few other noteworthy projects I’ve worked on:
 
 🏫 Home Access Center (HAC) Grade Calculator - Cumulative Grade Calculator 
@@ -30,5 +30,5 @@ https://github.com/mobilize-convergent/mobilize-mvp
 Developed a gamified Pomodoro timer Chrome Extension that rewards productive study sessions 
 https://github.com/zrogerye/PomodoroTimerExtension
 
-# 📬 How to Reach Me:
+## 📬 How to Reach Me:
 LinkedIn: www.linkedin.com/in/rayna-dejesus
