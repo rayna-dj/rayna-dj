@@ -1,9 +1,12 @@
-###👋 Hi, I'm Rayna!
-##🎓 Sophomore at the University of Texas at Austin studying Computer Science
-## ✨ Aspiring Software Engineer
+### 👋 Hi, I'm Rayna!
+### 🎓 Sophomore at the University of Texas at Austin studying Computer Science
+### ✨ Aspiring Software Engineer
 
 ## 🧠 About: 
-I’m a computer science major at UT, currently pursuing a certificate in nonprofits & social entrepreneurship. My interests lie in software engineering, UX/UI design, the arts, and entertainment, with a strong emphasis on ethical practices in technology. I’m dedicated to leveraging tech to create equitable resources that empower underrepresented communities and am eager to explore opportunities where I can apply my creativity to drive meaningful change. 
+I’m a computer science major at UT, currently pursuing a certificate in nonprofits & social entrepreneurship. 
+My interests lie in software engineering, UX/UI design, the arts, and entertainment, with a strong emphasis on ethical practices in technology. 
+I’m dedicated to leveraging tech to create equitable resources that empower underrepresented communities and am eager to explore opportunities 
+where I can apply my creativity to drive meaningful change. 
  
 # 🛠️ Tech Stack:
 Languages: Python, Java, C
