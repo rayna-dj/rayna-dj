@@ -21,7 +21,7 @@ Tools: Git, GitHub, Google Colab
 Databases: SQL, MySQL
  
 ## 👩‍💻 Projects:
-A few other noteworthy projects I’ve worked on:
+Noteworthy projects I’ve worked on (that are not school projects I cannot share or ones I signed an NDA on 😅):
 
 🏫 Home Access Center (HAC) Grade Calculator - Cumulative Grade Calculator 
 Calculates predictions on what grade is needed to obtain a letter grade for Bridgeland High School / CFISD students
