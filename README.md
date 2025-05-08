@@ -4,7 +4,7 @@
 ✨ Aspiring Software Engineer
 
 ## 🧠 About: 
-I’m a computer science major at UT, currently pursuing a certificate in nonprofits & social entrepreneurship. 
+I’m a computer science major at UT, pursuing a certificate in nonprofits & social entrepreneurship. 
 My interests lie in software engineering, UX/UI design, the arts, and entertainment, with a strong emphasis on ethical practices in technology. 
 I’m dedicated to leveraging tech to create equitable resources that empower underrepresented communities and am eager to explore opportunities 
 where I can apply my creativity to drive meaningful change. 
@@ -29,7 +29,7 @@ Noteworthy projects I’ve worked on (excluding my favorite ones, which are unde
 
 🎮 A+RCADE - Developed a gamified Pomodoro timer Chrome Extension that rewards productive study sessions. https://github.com/zrogerye/PomodoroTimerExtension
 
-🧾 Rounding Tip Calculator - Calculates and rounds a bill's tip up to the nearest dollar (aka how I tip :P). https://github.com/rayna-dj/RoundingTipCalculator - website on repo
+🧾 Rounding Tip Calculator - Calculates and rounds a bill's tip up to the nearest dollar (also known as how I tip :P). https://github.com/rayna-dj/RoundingTipCalculator - website on repo
 
 ## 💌 How to Reach Me:
 LinkedIn: www.linkedin.com/in/rayna-dejesus
