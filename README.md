@@ -29,7 +29,9 @@ Noteworthy projects I’ve worked on (excluding my favorite ones, which are unde
 
 🎮 A+RCADE - Developed a gamified Pomodoro timer Chrome Extension that rewards productive study sessions. https://github.com/zrogerye/PomodoroTimerExtension
 
-🧾 Rounding Tip Calculator - Calculates and rounds a bill's tip up to the nearest dollar (also known as how I tip :P). https://github.com/rayna-dj/RoundingTipCalculator - website on repo
+🧾 Rounding Tip Calculator - Calculates and rounds a bill's tip up to the nearest dollar (also known as how I tip :P)
+
+https://github.com/rayna-dj/RoundingTipCalculator - website on repo
 
 ## 💌 How to Reach Me:
 LinkedIn: www.linkedin.com/in/rayna-dejesus
