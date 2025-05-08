@@ -21,7 +21,7 @@ Tools: Git, GitHub, Gitlab, Google Colab
 Databases: SQL, MySQL
 
 ## 👩‍💻 Projects:
-Noteworthy projects I’ve worked on (excluding my favorite ones, which are under NDA and school projects due to academic honesty 😅). 
+Noteworthy projects I’ve worked on (excluding my favorite ones, which are under an NDA or school projects 😅). 
 
 🏫 Home Access Center (HAC) Grade Calculator - Calculates predictions on what grade is needed to obtain a letter grade for Bridgeland High School / CFISD students. https://github.com/rayna-dj/HACGradeCalculator - website on repo
 
