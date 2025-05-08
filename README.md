@@ -1,4 +1,4 @@
-# 🌺 Hello, I'm Rayna! 🌺
+# 🌺 Hello, I'm Rayna! 
 🤘 Computer Science major at the University of Texas at Austin 
 
 ✨ Aspiring Software Engineer
