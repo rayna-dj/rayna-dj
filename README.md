@@ -24,13 +24,18 @@ Databases: SQL, MySQL
 Noteworthy projects I’ve worked on (excluding my favorite ones, which are under NDA and school projects due to academic honesty 😅). 
 
 🏫 Home Access Center (HAC) Grade Calculator - Calculates predictions on what grade is needed to obtain a letter grade for Bridgeland High School / CFISD students 
+
 https://github.com/rayna-dj/HACGradeCalculator - website on repo
 
-🗺️ Mobilize - Assists students with disabilities in navigating college campuses by requesting volunteers and using a crowdsourced accessibility map. https://github.com/mobilize-convergent/mobilize-mvp
+🗺️ Mobilize - Assists students with disabilities in navigating college campuses by requesting volunteers and using a crowdsourced accessibility map. 
 
-🎮 A+RCADE - Developed a gamified Pomodoro timer Chrome Extension that rewards productive study sessions. https://github.com/zrogerye/PomodoroTimerExtension
+https://github.com/mobilize-convergent/mobilize-mvp
 
-🧾 Rounding Tip Calculator - Calculates and rounds a bill's tip up to the nearest dollar (aka how I tip :P)
+🎮 A+RCADE - Developed a gamified Pomodoro timer Chrome Extension that rewards productive study sessions.
+
+https://github.com/zrogerye/PomodoroTimerExtension
+
+🧾 Rounding Tip Calculator - Calculates and rounds a bill's tip up to the nearest dollar (aka how I tip :P).
 https://github.com/rayna-dj/RoundingTipCalculator - website on repo
 
 ## 💌 How to Reach Me:
